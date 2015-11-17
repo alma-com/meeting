@@ -1,10 +1,9 @@
 # Список тем
 <ul>
-	<li>history</li>
-	<li>ALMA.CMS v5</li>
+	<li><del>ALMA.CMS</del></li>
+	<li><del>Cистемы контроля версий</del></li>
 	<li>Laravel 5</li>
 	<li>TDD/BDD</li>
-	<li><del>Cистемы контроля версий</del></li>
 	<li>БЭМ tools</li>
 	<li>Сборщик проекта Gulp</li>
 	<li>Сборщик проекта Grunt</li>
@@ -32,5 +31,5 @@
 	<li>Babel.js</li>
 	<li>Увеличение скорости загрузки страницы</li>
 	<li>Парсинг сайтов</li>
-	<li>Зомби код</li>
+	<li>Зомби код "zombi zombi zombi"</li>
 </ul>
