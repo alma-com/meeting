@@ -3,7 +3,7 @@
 	<li>ALMA.CMS v5</li>
 	<li>Laravel 5</li>
 	<li>TDD/BDD</li>
-	<li>Cистемы контроля версий</li>
+	<li><del>Cистемы контроля версий</del></li>
 	<li>БЭМ tools</li>
 	<li>Сборщик проекта Gulp</li>
 	<li>Сборщик проекта Grunt</li>
