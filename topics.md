@@ -3,11 +3,12 @@
 	<li><del>ALMA.CMS</del></li>
 	<li><del>Cистемы контроля версий</del></li>
 	<li>Laravel 5</li>
-	<li>TDD/BDD</li>
+	<li>Тестирование TDD/BDD</li>
 	<li>БЭМ tools</li>
 	<li>Сборщик проекта Gulp</li>
 	<li>Сборщик проекта Grunt</li>
 	<li>Автоматизация деплоя приложений</li>
+	<li>Разворачивание проектов (Ansible, миграции, релизы)</li>
 	<li>Gitflow</li>
 	<li>Препроцессоры CSS</li>
 	<li>Postcss</li>
@@ -31,5 +32,21 @@
 	<li>Babel.js</li>
 	<li>Увеличение скорости загрузки страницы</li>
 	<li>Парсинг сайтов</li>
-	<li>Зомби код "zombi zombi zombi"</li>
+	<li>Зомби-код. Код, живущий своей жизнью</li>
+	<li>ООП</li>
+	<li>Принципы ООП (GRASP, SOLID)</li>
+	<li><b>S</b>ingle responsibility principle - Принцип единственной обязанности</li>
+	<li><b>O</b>pen/closed principle - Принцип открытости/закрытости</li>
+	<li><b>L</b>iskov substitution principle - Принцип подстановки Барбары Лисков</li>
+	<li><b>I</b>nterface segregation principle - Принцип разделения интерфейса</li>
+	<li><b>D</b>ependency inversion principle - Принцип инверсии зависимостей</li>
+	<li>Функциональное программирование</li>
+	<li>Императивное программирование</li>
+	<li>Основы командной строки (Bash)</li>
+	<li>HTML5</li>
+	<li>MVC</li>
+	<li>Проектирование Баз Данных (Нормализация, Связи)</li>
+	<li>Микрофреймворки (SLIM)</li>
+	<li>Безопасность сайтов (XSS, SQL-Injection)</li>
+	<li>Aдаптивная верстка (mobile first vs desktop first)</li>
 </ul>
