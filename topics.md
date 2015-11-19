@@ -49,4 +49,5 @@
 	<li>Микрофреймворки (SLIM)</li>
 	<li>Безопасность сайтов (XSS, SQL-Injection)</li>
 	<li>Aдаптивная верстка (mobile first vs desktop first)</li>
+	<li>Работа и обучение, как все успеть</li>
 </ul>
