@@ -26,6 +26,7 @@
 	<li>CSS animations</li>
 	<li>JavaScript animations</li>
 	<li>PHP</li>
+	<li>PHP 7</li>
 	<li>Composer</li>
 	<li>1C Bitrix</li>
 	<li>UMI</li>
