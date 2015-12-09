@@ -14,7 +14,7 @@
 	<li>Postcss</li>
 	<li>ECMAScript 6</li>
 	<li>CoffeeScript</li>
-	<li>Flex</li>
+	<li><del>Flex</del</li>
 	<li>AngularJS</li>
 	<li>Semantic-UI</li>
 	<li>Backbone</li>
@@ -46,7 +46,7 @@
 	<li>Основы командной строки (Bash)</li>
 	<li>HTML5</li>
 	<li>MVC</li>
-	<li><del>Проектирование Баз Данных (Нормализация, Связи)</del></li>
+	<li>>Проектирование Баз Данных (Нормализация, Связи)</li>
 	<li>Микрофреймворки (SLIM)</li>
 	<li>Безопасность сайтов (XSS, SQL-Injection)</li>
 	<li>Aдаптивная верстка (mobile first vs desktop first)</li>
