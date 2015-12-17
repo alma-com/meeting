@@ -49,7 +49,7 @@
 	<li>>Проектирование Баз Данных (Нормализация, Связи)</li>
 	<li>Микрофреймворки (SLIM)</li>
 	<li>Безопасность сайтов (XSS, SQL-Injection)</li>
-	<li>Aдаптивная верстка (mobile first vs desktop first)</li>
+	<li><del>Aдаптивная верстка (mobile first vs desktop first)</del></li>
 	<li><del>Работа и обучение, как все успеть (Организация рабочего процесса)</del></li>
 	<li>Bug tracker</li>
 </ul>
