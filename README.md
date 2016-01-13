@@ -6,4 +6,5 @@
 	<li>10.02.16 - [Александр Зубарев]</li>
 </ul>
 <a href="topics.md">Список тем</a><br>
+<a href="presentation.md">Список презентаций</a><br>
 <a href="history.md">История собраний</a>
