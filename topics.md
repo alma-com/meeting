@@ -17,6 +17,7 @@
 	<li>AngularJS</li>
 	<li>Semantic-UI</li>
 	<li>Backbone</li>
+	<li>Ember</li>
 	<li>NodeJs</li>
 	<li>Python</li>
 	<li>Паттерны программирования</li>
