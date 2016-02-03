@@ -54,4 +54,5 @@
 	<li><del>Битва за траффик (Ускоряем скорость загрузки сайта)</del></li>
 	<li>SPA архитектура</li>
 	<li>REST API</li>
+	<li>Web animation (CSS, JS, GreenSock, Velocity, Pixi.js and etc.)</li>
 </ul>
