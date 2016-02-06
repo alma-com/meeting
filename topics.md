@@ -55,4 +55,5 @@
 	<li>SPA архитектура</li>
 	<li>REST API</li>
 	<li>Web animation (CSS, JS, GreenSock, Velocity, Pixi.js and etc.)</li>
+	<li>Экстремальное программирование</li>
 </ul>
