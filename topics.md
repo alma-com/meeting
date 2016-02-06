@@ -34,7 +34,7 @@
 	<li>Парсинг сайтов</li>
 	<li>Зомби-код. Код, живущий своей жизнью</li>
 	<li>ООП</li>
-	<li>Принципы ООП (GRASP, SOLID)</li>
+	<li>Принципы GRASP, SOLID, KISS, DRY</li>
 	<li><b>S</b>ingle responsibility principle - Принцип единственной обязанности</li>
 	<li><b>O</b>pen/closed principle - Принцип открытости/закрытости</li>
 	<li><b>L</b>iskov substitution principle - Принцип подстановки Барбары Лисков</li>
