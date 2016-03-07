@@ -1,62 +1,57 @@
 # Список тем
-<ul>
-	<li><del>ALMA.CMS</del></li>
-	<li><del>Cистемы контроля версий</del></li>
-	<li>Laravel 5</li>
-	<li>Тестирование TDD/BDD</li>
-	<li>БЭМ tools</li>
-	<li>Сборщик проекта Gulp</li>
-	<li>Автоматизация деплоя приложений</li>
-	<li>Разворачивание проектов (Ansible, миграции, релизы)</li>
-	<li>Gitflow</li>
-	<li>Препроцессоры CSS</li>
-	<li>Postcss</li>
-	<li>ECMAScript 6</li>
-	<li>CoffeeScript</li>
-	<li><del>Flex</del</li>
-	<li>AngularJS</li>
-	<li>Semantic-UI</li>
-	<li>Backbone</li>
-	<li>Ember</li>
-	<li>NodeJs</li>
-	<li>Python</li>
-	<li>Паттерны программирования</li>
-	<li>Антипаттерны программирования</li>
-	<li>SVG</li>
-	<li>CSS animations</li>
-	<li>JavaScript animations</li>
-	<li>PHP</li>
-	<li>PHP 7</li>
-	<li>Composer</li>
-	<li>1C Bitrix</li>
-	<li>UMI</li>
-	<li>Babel.js</li>
-	<li>Парсинг сайтов</li>
-	<li>Зомби-код. Код, живущий своей жизнью</li>
-	<li>ООП</li>
-	<li>Принципы GRASP, SOLID, KISS, DRY, YAGNI</li>
-	<li><b>S</b>ingle responsibility principle - Принцип единственной обязанности</li>
-	<li><b>O</b>pen/closed principle - Принцип открытости/закрытости</li>
-	<li><b>L</b>iskov substitution principle - Принцип подстановки Барбары Лисков</li>
-	<li><b>I</b>nterface segregation principle - Принцип разделения интерфейса</li>
-	<li><b>D</b>ependency inversion principle - Принцип инверсии зависимостей</li>
-	<li>Функциональное программирование</li>
-	<li>Императивное программирование</li>
-	<li>Основы командной строки (Bash)</li>
-	<li>HTML5</li>
-	<li>MVC</li>
-	<li>Проектирование Баз Данных (Нормализация, Связи)</li>
-	<li>Микрофреймворки (SLIM)</li>
-	<li>Безопасность сайтов (XSS, SQL-Injection)</li>
-	<li><del>Aдаптивная верстка (mobile first vs desktop first)</del></li>
-	<li><del>Работа и обучение, как все успеть (Организация рабочего процесса)</del></li>
-	<li>Bug tracker</li>
-	<li><del>Битва за траффик (Ускоряем скорость загрузки сайта)</del></li>
-	<li>SPA архитектура</li>
-	<li>REST API</li>
-	<li>Web animation (CSS, JS, GreenSock, Velocity, Pixi.js and etc.)</li>
-	<li>Экстремальное программирование</li>
-	<li>Проблемно-ориентированное проектирование</li>
-	<li>Тестирование верстки</li>
-	<li>Electron - кроссплатформенные десктопные приложения с использованием веб-технологий.</li>
-</ul>
+- ALMA.CMS
+- Cистемы контроля версий
+- Laravel 5
+- Тестирование TDD/BDD
+- БЭМ tools
+- Сборщик проекта Gulp
+- Автоматизация деплоя приложений
+- Разворачивание проектов (Ansible, миграции, релизы)
+- Gitflow
+- Gitlab
+- Препроцессоры CSS
+- Postcss
+- ECMAScript 6
+- CoffeeScript
+- Flex
+- AngularJS
+- Semantic-UI
+- Backbone
+- Babel.js
+- Ember
+- NodeJs
+- Python
+- Паттерны программирования
+- Антипаттерны программирования
+- SVG
+- CSS animations
+- JavaScript animations
+- PHP
+- PHP 7
+- Composer
+- 1C Bitrix
+- Парсинг сайтов
+- Зомби-код. Код, живущий своей жизнью
+- ООП
+- <del>Принципы GRASP, KISS, DRY, YAGNI</del>
+- SOLID
+- Функциональное программирование
+- Императивное программирование
+- Основы командной строки (Bash)
+- HTML5
+- MVC
+- Проектирование Баз Данных (Нормализация, Связи)
+- Микрофреймворки (SLIM)
+- Безопасность сайтов (XSS, SQL-Injection)
+- Aдаптивная верстка (mobile first vs desktop first)
+- Работа и обучение, как все успеть
+- Bug tracker
+- Ускоряем скорость загрузки сайта
+- SPA архитектура
+- REST API
+- Web animation (CSS, JS, GreenSock, Velocity, Pixi.js and etc.)
+- Экстремальное программирование
+- Проблемно-ориентированное проектирование
+- Тестирование верстки
+- Electron - кроссплатформенные десктопные приложения с использованием веб-технологий
+
