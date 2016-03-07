@@ -6,5 +6,5 @@
 
 [Список тем](topics.md)  
 [Список презентаций](presentation.md)  
-[Список материалов](material.md)  
+[Список материалов](material/README.md)  
 [История собраний](history.md)  
