@@ -107,6 +107,6 @@
 - Препроцессоры CSS/Javascript (sass, less, coffeescript, typescript)
 - Сборщик проектов (Gulp, Grunt)
 - Пакетный менеджер (Bower, Webpack)
-- Фреймворки (Angular, Backbone, Ember, React)
+- CSS/JS Фреймворки (Bootstrap, AngularJS, Backbone)
 
 **список взят с [Путь программиста](https://map.hexlet.io/)*
