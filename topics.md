@@ -1,6 +1,6 @@
 # Список тем
 - ALMA.CMS
-- Cистемы контроля версий
+- GIT
 - Laravel 5
 - Тестирование TDD/BDD
 - БЭМ tools
@@ -9,16 +9,15 @@
 - Разворачивание проектов (Ansible, миграции, релизы)
 - Gitflow
 - Gitlab
-- Препроцессоры CSS
-- Postcss
+- Sass
+- PostCss
 - ECMAScript 6
-- CoffeeScript
-- Flex
+- Flexbox
 - AngularJS
+- ReactJs
 - Semantic-UI
 - Backbone
 - Babel.js
-- Ember
 - NodeJs
 - Python
 - Паттерны программирования
@@ -29,30 +28,56 @@
 - PHP
 - PHP 7
 - Composer
-- 1C Bitrix
 - Парсинг сайтов
 - Зомби-код. Код, живущий своей жизнью
 - ООП
-- <del>Принципы GRASP, KISS, DRY, YAGNI</del>
+- Принципы GRASP, KISS, DRY, YAGNI
 - SOLID
 - Функциональное программирование
-- Императивное программирование
-- Основы командной строки (Bash)
+- Декларативное и Императивное программирование
 - HTML5
 - MVC
 - Проектирование Баз Данных (Нормализация, Связи)
 - Микрофреймворки (SLIM)
 - Безопасность сайтов (XSS, SQL-Injection)
 - Aдаптивная верстка (mobile first vs desktop first)
-- Работа и обучение, как все успеть
-- Bug tracker
 - Ускоряем скорость загрузки сайта
 - SPA архитектура
-- REST API
+- RESTfull API
 - Web animation (CSS, JS, GreenSock, Velocity, Pixi.js and etc.)
 - Экстремальное программирование
 - Проблемно-ориентированное проектирование
 - Тестирование верстки
-- Electron - кроссплатформенные десктопные приложения с использованием веб-технологий
+- 1C Bitrix
+- Opencart
+- Wordpress
+- UMI
+- Drupal
+- Linux
+- Vagrant
+- VIM
+- HTTP протокол
+- NGINX
+- Apache
+- oAuth
+- Микросервисы
+- Web Sockets
+- Пробелы против табов
+- jQuery
+- Immutable
+- SQL
+- NoSQL
+- Redis
+- Bootstrap
+- HTML5 BOILERPLATE
+- Стандарты кодирования JavaScript
+- Стандартны кодирования HTML, CSS
+- Шаблонизаторы (Jade, Blade)
+- Непрерывная интеграция с Jenkins
+- Knockout.js
+- Haml
+- RequireJS / AMD
+- underscore.js
+- NodeJs
 
 ##### [Вернуться назад](README.md)
