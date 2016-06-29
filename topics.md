@@ -79,6 +79,6 @@
 - RequireJS / AMD
 - underscore.js
 - NodeJs
-- (Презентации)[https://github.com/urfu-2015/webdev-slides]
+- https://github.com/urfu-2015/webdev-slides
 
 ##### [Вернуться назад](README.md)
